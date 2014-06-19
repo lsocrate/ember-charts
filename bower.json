@@ -1,6 +1,6 @@
 {
   "name": "ember-charts-shim",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "http://addepar.github.io/#/ember-charts",
   "authors": [
     "Addepar"
@@ -22,7 +22,19 @@
     "tests",
     "app",
     "dependencies",
-    "src"
+    "src",
+    "dependencies/addepar-bootstrap-theme",
+    "dependencies/bootstrap",
+    "dependencies/compiled",
+    "dependencies/d3.v3.js",
+    "dependencies/ember-charts.js",
+    "dependencies/ember.js",
+    "dependencies/font-awesome",
+    "dependencies/google-code-prettify",
+    "dependencies/handlebars.js",
+    "dependencies/jquery-1.9.1.js",
+    "dependencies/jquery-ui",
+    "dependencies/lodash.js"
   ],
   "dependencies": {
     "bootstrap": "~3.1.1",
