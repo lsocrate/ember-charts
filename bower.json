@@ -1,6 +1,6 @@
 {
   "name": "ember-charts-shim",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "homepage": "http://addepar.github.io/#/ember-charts",
   "authors": [
     "Addepar"
@@ -21,7 +21,6 @@
     "test",
     "tests",
     "app",
-    "dependencies",
     "src",
     "dependencies/addepar-bootstrap-theme",
     "dependencies/bootstrap",
